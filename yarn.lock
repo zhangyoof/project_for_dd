@@ -1427,7 +1427,7 @@ aws4@^1.8.0:
 
 axios@0.19.0:
   version "0.19.0"
-  resolved "http://r.cnpmjs.org/axios/download/axios-0.19.0.tgz#8e09bff3d9122e133f7b8101c8fbdd00ed3d2ab8"
+  resolved "https://r.cnpmjs.org/axios/download/axios-0.19.0.tgz#8e09bff3d9122e133f7b8101c8fbdd00ed3d2ab8"
   integrity sha1-jgm/89kSLhM/e4EByPvdAO09Krg=
   dependencies:
     follow-redirects "1.5.10"
@@ -3192,7 +3192,7 @@ inquirer@^6.4.1:
 
 install@^0.13.0:
   version "0.13.0"
-  resolved "http://r.cnpmjs.org/install/download/install-0.13.0.tgz#6af6e9da9dd0987de2ab420f78e60d9c17260776"
+  resolved "https://r.cnpmjs.org/install/download/install-0.13.0.tgz#6af6e9da9dd0987de2ab420f78e60d9c17260776"
   integrity sha1-avbp2p3QmH3iq0IPeOYNnBcmB3Y=
 
 invariant@2.2.4, invariant@^2.2.4:
@@ -3981,7 +3981,7 @@ jsx-ast-utils@^2.0.1:
 
 keymirror@^0.1.1:
   version "0.1.1"
-  resolved "http://r.cnpmjs.org/keymirror/download/keymirror-0.1.1.tgz#918889ea13f8d0a42e7c557250eee713adc95c35"
+  resolved "https://r.cnpmjs.org/keymirror/download/keymirror-0.1.1.tgz#918889ea13f8d0a42e7c557250eee713adc95c35"
   integrity sha1-kYiJ6hP40KQufFVyUO7nE63JXDU=
 
 kind-of@^1.1.0:
@@ -4621,7 +4621,7 @@ mobx-react@5.4.3:
 
 mobx@5.9.4:
   version "5.9.4"
-  resolved "http://r.cnpmjs.org/mobx/download/mobx-5.9.4.tgz#1dee92aba33f67b7baeeb679e3bd376a12e55812"
+  resolved "https://r.cnpmjs.org/mobx/download/mobx-5.9.4.tgz#1dee92aba33f67b7baeeb679e3bd376a12e55812"
   integrity sha1-He6Sq6M/Z7e67rZ54703ahLlWBI=
 
 morgan@^1.9.0:
@@ -5319,7 +5319,7 @@ punycode@^2.1.0, punycode@^2.1.1:
 
 qs@6.8.0:
   version "6.8.0"
-  resolved "http://r.cnpmjs.org/qs/download/qs-6.8.0.tgz#87b763f0d37ca54200334cd57bb2ef8f68a1d081"
+  resolved "https://r.cnpmjs.org/qs/download/qs-6.8.0.tgz#87b763f0d37ca54200334cd57bb2ef8f68a1d081"
   integrity sha1-h7dj8NN8pUIAM0zVe7Lvj2ih0IE=
 
 qs@~6.5.2:
@@ -5382,7 +5382,7 @@ react-devtools-core@^3.6.1:
 
 react-dom@16.9.0:
   version "16.9.0"
-  resolved "http://r.cnpmjs.org/react-dom/download/react-dom-16.9.0.tgz#5e65527a5e26f22ae3701131bcccaee9fb0d3962"
+  resolved "https://r.cnpmjs.org/react-dom/download/react-dom-16.9.0.tgz#5e65527a5e26f22ae3701131bcccaee9fb0d3962"
   integrity sha1-XmVSel4m8irjcBExvMyu6fsNOWI=
   dependencies:
     loose-envify "^1.1.0"
@@ -5402,7 +5402,7 @@ react-lifecycles-compat@^3.0.2, react-lifecycles-compat@^3.0.4:
 
 react-native-amap3d@1.1.1:
   version "1.1.1"
-  resolved "http://r.cnpmjs.org/react-native-amap3d/download/react-native-amap3d-1.1.1.tgz#15f736907056a5ee451157cd7a948e0931bf8fe1"
+  resolved "https://r.cnpmjs.org/react-native-amap3d/download/react-native-amap3d-1.1.1.tgz#15f736907056a5ee451157cd7a948e0931bf8fe1"
   integrity sha1-Ffc2kHBWpe5FEVfNepSOCTG/j+E=
 
 react-native-collapsible@^1.4.0:
@@ -5433,22 +5433,22 @@ react-native-modal-popover@^0.0.12:
 
 react-native-nodemediaclient@0.1.4:
   version "0.1.4"
-  resolved "http://r.cnpmjs.org/react-native-nodemediaclient/download/react-native-nodemediaclient-0.1.4.tgz#b01abf34376874b5b330640671116a48c3e9cbd6"
+  resolved "https://r.cnpmjs.org/react-native-nodemediaclient/download/react-native-nodemediaclient-0.1.4.tgz#b01abf34376874b5b330640671116a48c3e9cbd6"
   integrity sha1-sBq/NDdodLWzMGQGcRFqSMPpy9Y=
 
 react-native-orientation@^3.1.3:
   version "3.1.3"
-  resolved "http://r.cnpmjs.org/react-native-orientation/download/react-native-orientation-3.1.3.tgz#d45803841fe94b6cce9acbe904fd5ca191a3711e"
+  resolved "https://r.cnpmjs.org/react-native-orientation/download/react-native-orientation-3.1.3.tgz#d45803841fe94b6cce9acbe904fd5ca191a3711e"
   integrity sha1-1FgDhB/pS2zOmsvpBP1coZGjcR4=
 
 react-native-reanimated@1.2.0:
   version "1.2.0"
-  resolved "http://r.cnpmjs.org/react-native-reanimated/download/react-native-reanimated-1.2.0.tgz#9219227a52a5dfa4d34c324596d6726ccd874293"
+  resolved "https://r.cnpmjs.org/react-native-reanimated/download/react-native-reanimated-1.2.0.tgz#9219227a52a5dfa4d34c324596d6726ccd874293"
   integrity sha1-khkielKl36TTTDJFltZybM2HQpM=
 
 react-native-root-siblings@^3.0.0:
   version "3.2.3"
-  resolved "http://r.cnpmjs.org/react-native-root-siblings/download/react-native-root-siblings-3.2.3.tgz#df5a1cff3a3a1f433f57320e1cae719f1b15a3f2"
+  resolved "https://r.cnpmjs.org/react-native-root-siblings/download/react-native-root-siblings-3.2.3.tgz#df5a1cff3a3a1f433f57320e1cae719f1b15a3f2"
   integrity sha1-31oc/zo6H0M/VzIOHK5xnxsVo/I=
   dependencies:
     prop-types "^15.6.2"
@@ -5456,7 +5456,7 @@ react-native-root-siblings@^3.0.0:
 
 react-native-root-toast@3.1.2:
   version "3.1.2"
-  resolved "http://r.cnpmjs.org/react-native-root-toast/download/react-native-root-toast-3.1.2.tgz#c8a1944f101c0768045202a276f46f9d710181a2"
+  resolved "https://r.cnpmjs.org/react-native-root-toast/download/react-native-root-toast-3.1.2.tgz#c8a1944f101c0768045202a276f46f9d710181a2"
   integrity sha1-yKGUTxAcB2gEUgKidvRvnXEBgaI=
   dependencies:
     prop-types "^15.5.10"
@@ -5485,22 +5485,22 @@ react-native-safe-area-view@^0.14.1, react-native-safe-area-view@^0.14.6:
 
 react-native-shadow@1.2.2:
   version "1.2.2"
-  resolved "http://r.cnpmjs.org/react-native-shadow/download/react-native-shadow-1.2.2.tgz#08991cd14b71e32f2fc6363911c139d231949a66"
+  resolved "https://r.cnpmjs.org/react-native-shadow/download/react-native-shadow-1.2.2.tgz#08991cd14b71e32f2fc6363911c139d231949a66"
   integrity sha1-CJkc0Utx4y8vxjY5EcE50jGUmmY=
 
 react-native-splash-screen@3.2.0:
   version "3.2.0"
-  resolved "http://r.cnpmjs.org/react-native-splash-screen/download/react-native-splash-screen-3.2.0.tgz#d47ec8557b1ba988ee3ea98d01463081b60fff45"
+  resolved "https://r.cnpmjs.org/react-native-splash-screen/download/react-native-splash-screen-3.2.0.tgz#d47ec8557b1ba988ee3ea98d01463081b60fff45"
   integrity sha1-1H7IVXsbqYjuPqmNAUYwgbYP/0U=
 
 react-native-svg@9.9.4:
   version "9.9.4"
-  resolved "http://r.cnpmjs.org/react-native-svg/download/react-native-svg-9.9.4.tgz#31070eeb68fb6e8dc0c0828c87687da3e0679102"
+  resolved "https://r.cnpmjs.org/react-native-svg/download/react-native-svg-9.9.4.tgz#31070eeb68fb6e8dc0c0828c87687da3e0679102"
   integrity sha1-MQcO62j7bo3AwIKMh2h9o+BnkQI=
 
 react-native-swipeout@2.3.6, react-native-swipeout@^2.3.6:
   version "2.3.6"
-  resolved "http://r.cnpmjs.org/react-native-swipeout/download/react-native-swipeout-2.3.6.tgz#47dac8a835825cf3f2eef9e495574a3d9ab6d3fa"
+  resolved "https://r.cnpmjs.org/react-native-swipeout/download/react-native-swipeout-2.3.6.tgz#47dac8a835825cf3f2eef9e495574a3d9ab6d3fa"
   integrity sha1-R9rIqDWCXPPy7vnklVdKPZq20/o=
   dependencies:
     create-react-class "^15.6.0"
@@ -5514,7 +5514,7 @@ react-native-tab-view@^2.9.0:
 
 react-native-video@5.0.2:
   version "5.0.2"
-  resolved "http://r.cnpmjs.org/react-native-video/download/react-native-video-5.0.2.tgz#8f07da0cd85a1d4b316d115f3786409efc9e39fb"
+  resolved "https://r.cnpmjs.org/react-native-video/download/react-native-video-5.0.2.tgz#8f07da0cd85a1d4b316d115f3786409efc9e39fb"
   integrity sha1-jwfaDNhaHUsxbRFfN4ZAnvyeOfs=
   dependencies:
     keymirror "^0.1.1"
@@ -5993,7 +5993,7 @@ scheduler@^0.13.6:
 
 scheduler@^0.15.0:
   version "0.15.0"
-  resolved "http://r.cnpmjs.org/scheduler/download/scheduler-0.15.0.tgz#6bfcf80ff850b280fed4aeecc6513bc0b4f17f8e"
+  resolved "https://r.cnpmjs.org/scheduler/download/scheduler-0.15.0.tgz#6bfcf80ff850b280fed4aeecc6513bc0b4f17f8e"
   integrity sha1-a/z4D/hQsoD+1K7sxlE7wLTxf44=
   dependencies:
     loose-envify "^1.1.0"
@@ -6075,7 +6075,7 @@ setprototypeof@1.1.1:
 
 shaka-player@^2.4.4:
   version "2.5.5"
-  resolved "http://r.cnpmjs.org/shaka-player/download/shaka-player-2.5.5.tgz#81e7265f28f631afd3837c06ec6637824bda71e4"
+  resolved "https://r.cnpmjs.org/shaka-player/download/shaka-player-2.5.5.tgz#81e7265f28f631afd3837c06ec6637824bda71e4"
   integrity sha1-gecmXyj2Ma/Tg3wG7GY3gkvaceQ=
 
 shebang-command@^1.2.0:
@@ -6289,7 +6289,7 @@ stacktrace-parser@^0.1.3:
 
 static-container@^1.0.0:
   version "1.5.1"
-  resolved "http://r.cnpmjs.org/static-container/download/static-container-1.5.1.tgz#9d7a94e04dea864539a7b6a1304843ada740dc19"
+  resolved "https://r.cnpmjs.org/static-container/download/static-container-1.5.1.tgz#9d7a94e04dea864539a7b6a1304843ada740dc19"
   integrity sha1-nXqU4E3qhkU5p7ahMEhDradA3Bk=
 
 static-extend@^0.1.1:
@@ -6633,9 +6633,9 @@ typedarray@^0.0.6:
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
 ua-parser-js@^0.7.18:
-  version "0.7.20"
-  resolved "https://registry.npmjs.org/ua-parser-js/-/ua-parser-js-0.7.20.tgz#7527178b82f6a62a0f243d1f94fd30e3e3c21098"
-  integrity sha512-8OaIKfzL5cpx8eCMAhhvTlft8GYF8b2eQr6JkCyVdrgjcytyOmPCXrqXFcUnhonRpLlh5yxEZVohm6mzaowUOw==
+  version "0.7.31"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.31.tgz#649a656b191dffab4f21d5e053e27ca17cbff5c6"
+  integrity sha512-qLK/Xe9E2uzmYI3qLeOmI0tEOt+TBBQyUIAh4aAgU05FVYzeZrKUdkAZfBNVGRaHVgV0TDkdEngJSw/SyQchkQ==
 
 uglify-es@^3.1.9:
   version "3.3.9"
